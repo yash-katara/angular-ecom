@@ -56,6 +56,18 @@
       "name": "yash",
       "password": "abc123",
       "email": "yash@seller.com"
+    },
+    {
+      "id": "9171",
+      "name": "yash",
+      "password": "abc123",
+      "email": "yash@seller.com"
+    },
+    {
+      "id": "9171",
+      "name": "yash",
+      "password": "abc123",
+      "email": "yash@seller.com"
     }
   ],
   "products": [
